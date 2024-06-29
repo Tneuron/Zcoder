@@ -1,1 +1,1 @@
-A web platofrm for users to practice coding problems.
+A web platform for users to practice coding problems.
